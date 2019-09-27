@@ -1,0 +1,20 @@
+.logo{
+    background-image: url(../images/h_img.jpg);
+    height: 100vh;
+    background-size: cover;
+    text-align:center;
+    font: 50px;
+    
+}
+.about{
+    text-align: center;
+}
+.services{
+    background-image: url(../images/s_image.jpg);
+    height: 300px;
+    padding:100px;
+    margin: 100px;
+}
+#part{
+    margin-top: 350px;
+}
