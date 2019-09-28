@@ -11,9 +11,10 @@
 }
 .services{
     background-image: url(../images/s_image.jpg);
-    height: 300px;
-    padding:100px;
-    margin: 100px;
+    height: 400px;
+    text-align: center;
+    font: 50px;
+    
 }
 #part{
     margin-top: 350px;
@@ -27,3 +28,59 @@
 #pro{
     display: none;
 }
+.head{
+    text-align: center;
+}
+#port{
+    text-align: center;
+}
+ h3{
+    text-align: center;
+}
+.contact-us-section {
+    background: url('../images/c_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #FDFDFB;
+    text-decoration: transparent;
+  }
+  .contact-us {
+    width: 70%;
+    text-align: center;
+    padding-bottom: 9%;
+    color: white;
+  }
+  .contact-us h2 {
+    padding-top: 5%;
+    padding-bottom: 2%;
+  }
+  .form-control::placeholder {
+    color: white;
+  }
+  #userName {
+    background-color: transparent;
+    border-radius: 0px;
+    color: white;
+  }
+  #inputEmail {
+    background-color: transparent;
+    border-radius: 0px;
+    color: white;
+  }
+  #userMessage {
+    background-color: transparent;
+    border-radius: 0px;
+    color: white;
+  }
+  
+  #submit {
+    background-color: transparent;
+    border-radius: 50px;
+    border-color: #ffffff;
+    text-align: center;
+  }
+  #submit:hover {
+    background: linear-gradient(90deg, rgba(240,116,217,0.7) 0%, rgba(46,196,159,0.4) 100%);
+  }
+  
