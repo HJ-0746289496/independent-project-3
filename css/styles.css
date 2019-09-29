@@ -93,7 +93,9 @@
   .footer{
       text-align: center;
   }
-
+  .footer :hover{
+      background-color: greenyellow;
+  }
   .footer-text{
       text-align: center;
       padding-bottom: 2%;
