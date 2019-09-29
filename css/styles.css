@@ -21,12 +21,18 @@
 }
 #para{
     display: none;
+    
 }
 #hello{
     display: none;
+    
 }
 #pro{
     display: none;
+    
+}
+.part2{
+    text-align: center;
 }
 .head{
     text-align: center;
@@ -37,6 +43,7 @@
  h3{
     text-align: center;
 }
+
 .contact-us-section {
     background: url('../images/c_image.jpg');
     background-size: cover;
@@ -82,5 +89,21 @@
   }
   #submit:hover {
     background: linear-gradient(90deg, rgba(240,116,217,0.7) 0%, rgba(46,196,159,0.4) 100%);
+  }
+  .footer{
+      text-align: center;
+  }
+
+  .footer-text{
+      text-align: center;
+      padding-bottom: 2%;
+  }
+
+  .footer-text p{
+      margin:0;
+      padding:0;
+      line-height:15px;
+      text-align: center;
+      font-size: 13px;
   }
   

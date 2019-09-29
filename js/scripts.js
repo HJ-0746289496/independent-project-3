@@ -13,3 +13,20 @@ $(document).ready (function(){
   });
   
 });
+
+$(document).ready(function(){
+  $("form#feedbackForm").submit(function(event){
+    var name = $("input#userName").val();
+    var email = $("input#inputEmail").val();
+    var message = $("textarea#userMessage").val();
+    if ($("input#userName").val() && $("input#inputEmail").val()){
+      alert (name + ", We have received your message. Thank you for reaching out to us.");
+    }
+    else {
+      alert("Please enter your name and email!");
+    }
+
+  });
+
+});
+
