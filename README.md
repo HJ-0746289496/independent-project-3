@@ -28,4 +28,4 @@ Email hamdi469959@gmail.com
 
 #### LIVE LINK.
 
-HJ-0746289496.github.io/independent-project-3/
+https://HJ-0746289496.github.io/independent-project-3/
